@@ -1,0 +1,24 @@
+{
+  "name": "robo",
+  "version": "1.0.0",
+  "description": "An application with self awareness and a little intelligence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robin130/robo.git"
+  },
+  "author": "Robin A Thomas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robin130/robo/issues"
+  },
+  "homepage": "https://github.com/robin130/robo",
+  "dependencies": {
+    "consolidate": "^0.13.1",
+    "express.io": "^1.1.13",
+    "underscore": "^1.8.3"
+  }
+}
